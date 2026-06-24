@@ -22,6 +22,7 @@ public class insertElement {
 			b[j]=a[i];
 			j++;
 		}
+		System.out.println(Arrays.toString(a));
 		System.out.println(Arrays.toString(b));
 		
 	}
